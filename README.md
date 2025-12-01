@@ -13,7 +13,7 @@ Classic Two Player Tic - Tac - Toe game implemented in Python using  a Jupyter N
 
   #Acknowledgments
 
-  This project was inspired by a Youtube tutorial. I understand the logic from the tutortial. I understood the logic from the tutorial and then recreated the project with my own improvements like:
+  This project was inspired by a Youtube tutorial. I understood the logic from the tutorial and then recreated the project with my own improvements like:
   *Using a single board list multiplied by 9 instead of writing 9 buttons manually
   *Renaming variables for a better readability.
 
