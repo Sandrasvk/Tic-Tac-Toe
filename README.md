@@ -1,8 +1,8 @@
 # Tic-Tac-Toe
-Classic Two Player Tic - Tac - Toe game implemented in Python using  a Jupyter Notebook
+Classic Two Player Tic - Tac - Toe game 
 
 # Features
-***Human(player1) v/s Human(player2)** gameplay
+***Human(player1) v/s Computer(player2)** gameplay
 * Dynamically printed 3*3 game board in the console
 * Complete checking for horizontal, vertical, and diagonal wins as well as tie conditions
 
